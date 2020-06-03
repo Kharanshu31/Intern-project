@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Intern-project/static/css/main.15237ae5.chunk.css",
+    "main.js": "/Intern-project/static/js/main.ba15066b.chunk.js",
+    "main.js.map": "/Intern-project/static/js/main.ba15066b.chunk.js.map",
+    "runtime-main.js": "/Intern-project/static/js/runtime-main.6f891322.js",
+    "runtime-main.js.map": "/Intern-project/static/js/runtime-main.6f891322.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Intern-project/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.4f95627f.chunk.js": "/Intern-project/static/js/2.4f95627f.chunk.js",
+    "static/js/2.4f95627f.chunk.js.map": "/Intern-project/static/js/2.4f95627f.chunk.js.map",
+    "index.html": "/Intern-project/index.html",
+    "precache-manifest.54e3753ec759de76f63b89531f7725a1.js": "/Intern-project/precache-manifest.54e3753ec759de76f63b89531f7725a1.js",
+    "service-worker.js": "/Intern-project/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Intern-project/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.15237ae5.chunk.css.map": "/Intern-project/static/css/main.15237ae5.chunk.css.map",
+    "static/js/2.4f95627f.chunk.js.LICENSE.txt": "/Intern-project/static/js/2.4f95627f.chunk.js.LICENSE.txt",
+    "static/media/calendar.svg": "/Intern-project/static/media/calendar.8e47d7f5.svg",
+    "static/media/competition.jpg": "/Intern-project/static/media/competition.62138991.jpg",
+    "static/media/d2clogo.svg": "/Intern-project/static/media/d2clogo.645338e7.svg",
+    "static/media/sportsquiz.png": "/Intern-project/static/media/sportsquiz.eee0d24e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f891322.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.4f95627f.chunk.js",
+    "static/css/main.15237ae5.chunk.css",
+    "static/js/main.ba15066b.chunk.js"
+  ]
+}
